@@ -1,0 +1,22 @@
+
+body {
+    color: rgb(216, 204, 216);
+    background: rgb(1, 46, 41);
+}
+strong {
+    font-size: 200pt;
+} 
+th {
+    font-size: 57pt;
+    font-weight: normal;
+}
+.price {
+    color: #160216; 
+    background-color: #f7f1eb
+}
+.bold {
+    font-weight: bold ;
+ 
+}
+
+
