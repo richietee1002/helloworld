@@ -1,0 +1,25 @@
+video.centered {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    color: whitesmoke;
+    background-color: rgb(83, 2, 2);
+}
+.centered {
+    text-align:center;
+}
+main {
+    margin-left: auto;
+    margin-right: auto;
+    /* border: 2px solid white; optional*/ 
+    width: 600px;
+    font-family: 'Shizuru', cursive;
+    font-size: 25px;
+}
+img {
+    width: 600px;
+    height: auto;
+}
+
