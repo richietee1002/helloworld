@@ -13,7 +13,7 @@ body {
 main {
     margin-left: auto;
     margin-right: auto;
-    /* border: 2px solid white; optional*/ 
+    border: 2px solid white; 
     width: 600px;
     font-family: 'Shizuru', cursive;
     font-size: 25px;
@@ -24,5 +24,8 @@ img {
 }
 a {
     color:rgb(238, 238, 46);
+}
+.bold{
+    text-transform: uppercase;
 }
 
