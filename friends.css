@@ -23,9 +23,14 @@ img {
     height: auto;
 }
 a {
-    color:rgb(238, 238, 46);
+    font-family: 'Hubballi', cursive;                       
+    color:rgb(110, 218, 194);
 }
 .bold{
     text-transform: uppercase;
 }
-
+ul{
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
