@@ -5,7 +5,7 @@ video.centered {
 }
 body {
     color: whitesmoke;
-    background-color: rgb(46, 15, 15);
+    background-color: rgb(38, 1, 54);
 }
 .centered {
     text-align:center;
@@ -17,6 +17,7 @@ main {
     width: 600px;
     font-family: 'Shizuru', cursive;
     font-size: 25px;
+    background-color: black;
 }
 img {
     width: 600px;
